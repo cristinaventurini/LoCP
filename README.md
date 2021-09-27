@@ -10,7 +10,7 @@ The programming language is Python and the topics differ as follows: <br>
 - MOD A: basics of Python, including the main libraries (Numpy, Pandas, Matplotlib, Seaborn) and some Numba, as well as some tutorials on implementing algorithms and Monte Carlo simulations in Python. <br>
 
 - MOD B: Machine Learning applications in Python, weekly assignments covering the following topics: <br>
-    1 - Gradient Descent <br>
+  \t  1 - Gradient Descent <br>
     2 - Deep Neural Network <br>
     3 - Convolutional Neural Network <br>
     3b - Competition on CNN <br>
