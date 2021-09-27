@@ -21,5 +21,4 @@ For MOD A, together with my group, we implemented a mean timer techinque to reco
 
 For MOD B, there were two final projects, always carried out in groups: 
 - The first one consisted in writing a mock scientific paper regarding one of the topics covered during the weekly assignments, for us tSNE and DBSCAN. 
-- The second was a project supervised by professor Marco Zanetti and Dr. Alberto Zucchetta, in which we worked with data coming from CMS with the goal of setting an upper limit to the branching fraction of FCNC (flavour changing neutral currents) decay of 
-- <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}\rightarrow Hq+Wb\rightarrow multilepton">
+- The second was a project supervised by professor Marco Zanetti and Dr. Alberto Zucchetta, in which we worked with data coming from CMS with the goal of setting an upper limit to the branching fraction of FCNC (flavour changing neutral currents) decay of $t\bar{t}\rightarrow Hq+Wb\rightarrow multilepton$
