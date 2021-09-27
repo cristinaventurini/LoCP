@@ -1,0 +1,14 @@
+### SIGNIFICANCES ###
+
+iSkim3	[inv_m01]Jet_btagDeepB > 0.7	1.821
+iSkim3	[inv_m01]Jet_btagDeepB > 0.85	1.597
+iSkim3	[inv_m01]Jet_btagDeepB > 0.6	1.886
+iSkim3	[inv_m01]Jet_btagDeepB > 0.1	1.828
+iSkim3	[inv_m01]Jet_btagDeepB > 0.6, dimuon inv mass > 15	1.963 <------
+iSkim3	[inv_m01]Jet_btagDeepB > 0.85, dimuon inv mass > 15	1.666
+iSkim3	[inv_m01]Jet_btagDeepB > 0.6, dimuon inv mass > 15, 3lep inv mass cut at 91.2	1.963 <------
+iSkim3	[inv_m01]Jet_btagDeepB > 0.6, dimuon inv mass > 15, w cut	1.661
+iSkim1	[lep_eta1]	0.91
+iSkim2	[lep_eta1]	0.609
+iSkim1	[lep_eta1]same sign	0.915
+iSkim2	[lep_eta1]same sign	0.616
